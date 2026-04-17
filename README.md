@@ -10,7 +10,7 @@ Systems-driven Software Engineer merging a decade of enterprise IT reliability w
 
 ---
 
-### 🚀 Current God-Tier Projects
+### 🚀 Current Projects
 
 **[NEXUS V3: Multi-Dimensional Swarm Architecture]**
 > *Architecting a custom PyTorch Deep Reinforcement Learning engine utilizing CUDA hardware acceleration. Engineered custom algorithmic Gym environments with Institutional Reward Shaping and Quadratic Drawdown penalties to train autonomous market-sniping agents.*
