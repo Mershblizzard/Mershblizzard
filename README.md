@@ -36,7 +36,6 @@ A Windows cleaner and PC guardian I wrote in C# on .NET 10. It maps a whole driv
 #### Open source
 
 - **[Tactical Matrix](https://github.com/Mershblizzard/tactical-matrix-sim).** A 3D drone swarm simulator: a Python pathfinding engine streaming over WebSockets into React Three Fiber.
-- **[buzz](https://github.com/Mershblizzard/buzz).** A hive mind communication platform.
 
 ---
 
